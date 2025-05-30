@@ -1,20 +1,20 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import os
 import json
+import os
 
+# Load fixed sample data file
 def load_data():
-    files = [f for f in os.listdir() if f.endswith('.json') and f.startswith('portfolio_data')]
-    if not files:
-        st.warning("No data file found. Please run the scraper first.")
+    file_path = "sample_portfolio_data.json"
+    if not os.path.exists(file_path):
+        st.warning("No sample data file found.")
         return None
-
-    latest_file = sorted(files)[-1]
-    with open(latest_file, 'r') as f:
+    with open(file_path, 'r') as f:
         data = json.load(f)
     return data
 
+# Display founders in a table
 def display_dashboard(data):
     companies = data.get("companies", [])
     founders = []
@@ -24,31 +24,24 @@ def display_dashboard(data):
                 "Company": company.get("name"),
                 "Founder": founder.get("name"),
                 "Role": founder.get("role"),
-                "LinkedIn": founder.get("linkedin"),
-                "Email": founder.get("email"),
             })
-
     df = pd.DataFrame(founders)
-    st.write(f"### Total Companies: {len(companies)}")
-    st.write(f"### Total Founders: {len(founders)}")
-
+    st.title("🧑‍🚀 Portfolio Founders Overview")
     st.dataframe(df)
 
-    # Plot founders per company
-    founder_counts = df["Company"].value_counts().reset_index()
-    founder_counts.columns = ["Company", "Founder Count"]
+# Set page config FIRST
+st.set_page_config(page_title="Portfolio Scraper Dashboard", layout="wide")
 
-    fig = px.bar(founder_counts, x="Company", y="Founder Count", title="Founders per Company")
-    st.plotly_chart(fig, use_container_width=True)
-
+# Main app
 def main():
-    st.title("🚀 Startup Scraper Dashboard")
-
-    st.markdown("View the scraped founders and portfolio data from VC websites.")
+    st.title("📊 Static Dashboard Demo")
+    st.markdown("This is a hosted preview of previously scraped portfolio founder data.")
 
     data = load_data()
     if data:
         display_dashboard(data)
     else:
-        st.info("No data to display. Run the scraper and refresh.")
+        st.error("No data to display. Please scrape data first.")
 
+if __name__ == "__main__":
+    main()
