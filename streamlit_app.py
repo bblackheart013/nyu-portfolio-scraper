@@ -1,21 +1,30 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-import json
 import os
+import json
 
-# Load fixed sample data file
+st.set_page_config(page_title="Static Dashboard Demo", layout="wide")
+
 def load_data():
-    file_path = "sample_portfolio_data.json"
-    if not os.path.exists(file_path):
-        st.warning("No sample data file found.")
+    files = [f for f in os.listdir() if f.endswith('.json') and f.startswith('portfolio_data')]
+    if files:
+        latest_file = sorted(files)[-1]
+    elif os.path.exists("sample_portfolio_data.json"):
+        latest_file = "sample_portfolio_data.json"
+    else:
+        st.warning("No data file found. Please upload a JSON or rerun the scraper.")
         return None
-    with open(file_path, 'r') as f:
+
+    with open(latest_file, 'r') as f:
         data = json.load(f)
     return data
 
-# Display founders in a table
 def display_dashboard(data):
+    if not isinstance(data, dict):
+        st.error("Data format invalid.")
+        return
+
     companies = data.get("companies", [])
     founders = []
     for company in companies:
@@ -25,23 +34,25 @@ def display_dashboard(data):
                 "Founder": founder.get("name"),
                 "Role": founder.get("role"),
             })
-    df = pd.DataFrame(founders)
-    st.title("🧑‍🚀 Portfolio Founders Overview")
-    st.dataframe(df)
 
-# Set page config FIRST
-st.set_page_config(page_title="Portfolio Scraper Dashboard", layout="wide")
+    st.title("📊 Portfolio Founder Dashboard")
+    st.markdown("This shows data from previously scraped startup portfolios.")
 
-# Main app
+    st.metric("Total Companies", len(companies))
+    st.metric("Total Founders", len(founders))
+
+    if founders:
+        df = pd.DataFrame(founders)
+        st.dataframe(df)
+        fig = px.histogram(df, x="Company", color="Role", title="Founders by Company")
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("No founder data found in the file.")
+
 def main():
-    st.title("📊 Static Dashboard Demo")
-    st.markdown("This is a hosted preview of previously scraped portfolio founder data.")
-
     data = load_data()
     if data:
         display_dashboard(data)
-    else:
-        st.error("No data to display. Please scrape data first.")
 
 if __name__ == "__main__":
     main()
