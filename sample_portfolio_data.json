@@ -1,0 +1,1946 @@
+[
+  {
+    "company_name": "Orgorg",
+    "company_url": "https://orgorg.com/",
+    "description": "Organize your organization.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:18.762347"
+  },
+  {
+    "company_name": "Camelai",
+    "company_url": "https://camelai.com/",
+    "description": "Ask questions in plain English and get instant charts from your data with camelAI. Connect to PostgreSQL, CSVs & more. Free to try, no SQL needed.",
+    "founders": [],
+    "all_emails": [
+      "contact@camelai.com",
+      "support@camelai.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "PostgreSQL",
+      "MySQL",
+      "MongoDB",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:27.853876"
+  },
+  {
+    "company_name": "Openfoundry",
+    "company_url": "https://www.openfoundry.ai/",
+    "description": "The fastest developer experience for building on open source AI.",
+    "founders": [],
+    "all_emails": [
+      "hello@openfoundry.ai"
+    ],
+    "tech_stack": [
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:31.945922"
+  },
+  {
+    "company_name": "Orangecollective",
+    "company_url": "https://www.orangecollective.vc/blog",
+    "description": "Ideas on startups, investing, and tech from YC alumni",
+    "founders": [
+      {
+        "name": "Founder",
+        "role": "Mode Party",
+        "email": "founder@www.orangecollective.vc",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:35.868887"
+  },
+  {
+    "company_name": "Orangecollective",
+    "company_url": "https://www.orangecollective.vc/portfolio",
+    "description": "Orange Collective's 100 investments",
+    "founders": [],
+    "all_emails": [
+      "david@fastgen.com"
+    ],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Kubernetes",
+      "PostgreSQL",
+      "Machine Learning",
+      "AI",
+      "Blockchain",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:25:40.853175"
+  },
+  {
+    "company_name": "Respaid",
+    "company_url": "https://www.respaid.com/",
+    "description": "Respaid helps you recover 50% of your unpaid invoices in 20 days with a respectful approach and convenient compliance options \u2014\u00a0powered by AI.",
+    "founders": [
+      {
+        "name": "Dropbox Co",
+        "role": "Founder",
+        "email": "dropbox@www.respaid.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Docker Co",
+        "role": "Founder",
+        "email": "docker@www.respaid.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Zoom Co",
+        "role": "Founder",
+        "email": "zoom@www.respaid.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "local@domain.tld",
+      "hello@respaid.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "Redis",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:52.042873"
+  },
+  {
+    "company_name": "Dgiapparel",
+    "company_url": "https://www.dgiapparel.com/",
+    "description": "Purchasing for your custom apparel shop? See your custom pricing across all vendors and cut ordering time in half. Completely free for apparel shops & non-profits.",
+    "founders": [],
+    "all_emails": [
+      "ian@dgiapparel.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:25:57.325278"
+  },
+  {
+    "company_name": "Getventa",
+    "company_url": "https://www.getventa.ai/",
+    "description": "Venta AI helps sales teams in Germany to perform highly targeted cold outreach with first-class company and contact data. Our AI employee finds companies based on individual criteria and conducts GDPR-compliant outreach.",
+    "founders": [],
+    "all_emails": [
+      "info@getventa.ai"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:07.798981"
+  },
+  {
+    "company_name": "Trytrueclaim",
+    "company_url": "https://www.trytrueclaim.com/",
+    "description": "Maximize your healthcare benefits. AI-powered hub that provides transparency and savings for employers. Identify savings opportunities across pharmacy, care navigation, and billing errors.",
+    "founders": [],
+    "all_emails": [
+      "hello@trytrueclaim.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:16.142173"
+  },
+  {
+    "company_name": "Withaccend",
+    "company_url": "https://www.withaccend.com/",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:27.771061"
+  },
+  {
+    "company_name": "Zeropath",
+    "company_url": "https://zeropath.com/",
+    "description": "ZeroPath uses AI Powered SAST to find and fix broken authentication, logic bugs, outdated dependencies, and more. Secure your code effortlessly with ZeroPath.",
+    "founders": [
+      {
+        "name": "Shi Co",
+        "role": "Founder",
+        "email": "shi@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Khattak Co",
+        "role": "Founder",
+        "email": "khattak@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Anderson Co",
+        "role": "Founder",
+        "email": "anderson@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Yaacov Tarko",
+        "role": "CTO",
+        "email": "yaacov@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Dean Valentine",
+        "role": "CEO",
+        "email": "dean@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Former Co",
+        "role": "Founder",
+        "email": "former@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Raphael Karger",
+        "role": "CTO",
+        "email": "raphael@zeropath.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "team@zeropath.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:38.292915"
+  },
+  {
+    "company_name": "Stack-Auth",
+    "company_url": "https://stack-auth.com/",
+    "description": "Stack Auth is the open-source Auth0 alternative. We are your login and signup page, and everything that comes with that.",
+    "founders": [],
+    "all_emails": [
+      "team@stack-auth.com"
+    ],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:42.809166"
+  },
+  {
+    "company_name": "Parahelp",
+    "company_url": "https://parahelp.com/",
+    "description": "Parahelp is an AI support agent for software companies. Just like a teammate, it resolves support tickets end-to-end using your existing knowledge base, SOPs, and tools (like Slack, Stripe, Retool, and Linear).",
+    "founders": [],
+    "all_emails": [
+      "mads@parahelp.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:47.448558"
+  },
+  {
+    "company_name": "Platus",
+    "company_url": "https://www.platus.com/",
+    "description": "Platus powers businesses of all sizes with legal services via API. Notarize any document worldwide.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      "Spring",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:26:57.792503"
+  },
+  {
+    "company_name": "Capitol",
+    "company_url": "https://www.capitol.ai/",
+    "description": "Experience powerful, seamless document creation with Capitol AI\u2019s fusion of smart research, data, and AI\n",
+    "founders": [],
+    "all_emails": [
+      "careers@capitol.ai",
+      "hello@capitol.ai"
+    ],
+    "tech_stack": [
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:27:02.315378"
+  },
+  {
+    "company_name": "Trigodata",
+    "company_url": "https://trigodata.com/",
+    "description": "Rent verifications for resident screening and underwriting.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:27:09.408757"
+  },
+  {
+    "company_name": "Powderfi",
+    "company_url": "https://www.powderfi.com/",
+    "description": "AI Agents for precise document analysis",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:27:20.129598"
+  },
+  {
+    "company_name": "Starcloud",
+    "company_url": "https://www.starcloud.com/",
+    "description": "Explore Star Cloud's pioneering data centers in space, offering 90% lower electricity costs and 24/7 solar-powered efficiency. Join us today & learn more!",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:27:30.189147"
+  },
+  {
+    "company_name": "Buildwithfern",
+    "company_url": "https://www.buildwithfern.com/",
+    "description": "Start with OpenAPI. Generate SDKs in multiple languages and interactive API documentation.",
+    "founders": [],
+    "all_emails": [
+      "marty.mcfly@hillvalley.edu"
+    ],
+    "tech_stack": [
+      "React",
+      "Python",
+      "PHP",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:27:39.932172"
+  },
+  {
+    "company_name": "Getroe",
+    "company_url": "https://getroe.ai/",
+    "description": "A data platform for risk teams to gather high quality risk features from sellers, seller products, seller web presence.",
+    "founders": [],
+    "all_emails": [
+      "johndoe@mail.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "Azure",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:27:44.236002"
+  },
+  {
+    "company_name": "Saphira",
+    "company_url": "https://saphira.ai/",
+    "description": "AI-powered product compliance",
+    "founders": [],
+    "all_emails": [
+      "akshay@saphira.ai"
+    ],
+    "tech_stack": [
+      "React",
+      "Python",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:27:50.028239"
+  },
+  {
+    "company_name": "Certainlyhealth",
+    "company_url": "https://certainlyhealth.com/",
+    "description": "See exactly how much your medical care costs for different in-network providers. Compare prices, book a provider, and save hundreds of dollars.",
+    "founders": [],
+    "all_emails": [
+      "support@certainlyhealth.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:03.603176"
+  },
+  {
+    "company_name": "Orangecollective",
+    "company_url": "https://www.orangecollective.vc/",
+    "description": "Pooling together YC alumni to back next-gen YC founders for demo day and beyond",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:11.335013"
+  },
+  {
+    "company_name": "Coblocks",
+    "company_url": "https://coblocks.ai/",
+    "description": "Unified tooling, instant deployment, and effortless collaboration in one streamlined platform.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Python",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:16.695887"
+  },
+  {
+    "company_name": "Kontigo",
+    "company_url": "https://kontigo.lat/",
+    "description": "Paga, ahorra y gana un 8% anual. Billetera digital en d\u00f3lares y dile adi\u00f3s a la inflaci\u00f3n. Te damos la bienvenida a Kontigo.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Vue",
+      "PHP",
+      "Java",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:28:22.385408"
+  },
+  {
+    "company_name": "Himodus",
+    "company_url": "https://himodus.com/",
+    "description": "Map resources and performance to revenue. Modus brings finance, HR, and hiring managers to detect, inspect, and correct their workforce plans - in one unified workflow. Our AI will always ensure capacity meets revenue.",
+    "founders": [],
+    "all_emails": [
+      "support@himodus.com"
+    ],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      "Machine Learning",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:27.278670"
+  },
+  {
+    "company_name": "Helloconduit",
+    "company_url": "http://helloconduit.com/",
+    "description": "Save time and quickly optimize your operations with the best all-in-one dock and yard management system. Book a demo today!",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:31.582710"
+  },
+  {
+    "company_name": "Argon-Ai",
+    "company_url": "https://www.argon-ai.com/",
+    "description": "AI powered insights for Pharma, Biotech, and Life Sciences",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:28:36.982267"
+  },
+  {
+    "company_name": "Gopromptless",
+    "company_url": "https://gopromptless.ai/",
+    "description": "Promptless keeps your technical docs up to date by automatically drafting docs updates from Github PRs, improving customer satisfaction and free user conversions while reducing implementation time and support volume. ",
+    "founders": [],
+    "all_emails": [
+      "hello@gopromptless.ai"
+    ],
+    "tech_stack": [
+      "Vue",
+      "PHP",
+      "Java",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:28:41.683108"
+  },
+  {
+    "company_name": "Taxgpt",
+    "company_url": "https://www.taxgpt.com/",
+    "description": "AI-powered tax assistant for accountants & tax pros. TaxGPT co-pilot boosts productivity by 10x. Secure & accurate. Save time and streamline operations.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:50.599470"
+  },
+  {
+    "company_name": "Pointone",
+    "company_url": "https://pointone.com/",
+    "description": "PointOne uses AI to passively track time and review bills. Capture detailed time data that drives insights across your practice, business and people",
+    "founders": [],
+    "all_emails": [
+      "team@pointone.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Vue",
+      "Java",
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:28:56.470237"
+  },
+  {
+    "company_name": "Starlightcharging",
+    "company_url": "https://www.starlightcharging.com/",
+    "description": "Ultra-low-cost EV charging for apartments, condos, and workplaces.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:05.938183"
+  },
+  {
+    "company_name": "Mdhub",
+    "company_url": "https://www.mdhub.ai/",
+    "description": "mdhub's clinical AI assistant automatically generates structured clinical notes, patient summaries, treatment plans and more. Save 2 hours per day. Free trial.",
+    "founders": [
+      {
+        "name": "Dominik Middelmann",
+        "role": "Dominik MiddelmannCo-Founder & CEO",
+        "email": "dominik@www.mdhub.ai",
+        "linkedin": "https://www.linkedin.com/in/dominik-middelmann-01232378/",
+        "twitter": ""
+      },
+      {
+        "name": "Efr\u00e9n Alvarez Lamolda",
+        "role": "Efr\u00e9n Alvarez LamoldaCo-Founder & CTO",
+        "email": "efr\u00e9n@www.mdhub.ai",
+        "linkedin": "https://www.linkedin.com/in/efrenal/",
+        "twitter": ""
+      },
+      {
+        "name": "Dr. Christina Girgis, M.D.",
+        "role": "Dr. Christina Girgis, M.D.Medical Director",
+        "email": "dr.@www.mdhub.ai",
+        "linkedin": "https://www.linkedin.com/in/christinagmd/",
+        "twitter": ""
+      },
+      {
+        "name": "Bogdan Yur",
+        "role": "Bogdan YurFounding Engineer",
+        "email": "bogdan@www.mdhub.ai",
+        "linkedin": "https://www.linkedin.com/in/bogdan-yur/",
+        "twitter": ""
+      },
+      {
+        "name": "Vasilis Kyritsis",
+        "role": "Vasilis Kyritsis Founding engineer",
+        "email": "vasilis@www.mdhub.ai",
+        "linkedin": "https://www.linkedin.com/in/vasileios-kyritsis/",
+        "twitter": ""
+      },
+      {
+        "name": "Keerthana Kasi, M.D.",
+        "role": "Keerthana Kasi, M.D.Clinical Operations",
+        "email": "keerthana@www.mdhub.ai",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "support@mdhub.ai"
+    ],
+    "tech_stack": [
+      "Vue",
+      "PHP",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:24.958944"
+  },
+  {
+    "company_name": "Justpaid",
+    "company_url": "https://www.justpaid.ai/",
+    "description": "JustPaid AI follows up on unpaid invoices, tracks your customers' payments, and lets you see all of the communications.",
+    "founders": [
+      {
+        "name": "Fast and easy management",
+        "role": "Team Member",
+        "email": "fast@www.justpaid.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Concentrate to run your business",
+        "role": "Team Member",
+        "email": "concentrate@www.justpaid.ai",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "support@justpaid.io"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:37.154543"
+  },
+  {
+    "company_name": "Fastgen",
+    "company_url": "https://fastgen.com/",
+    "description": "A visual API and workflow builder to create backends and automations. Create a Postgres database and API endpoints with a click of a button. Build CRUD workflows and connect and third party service that has an API.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Node.js",
+      "Python",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:43.120356"
+  },
+  {
+    "company_name": "Mastra",
+    "company_url": "https://mastra.ai/",
+    "description": "Prototype and productionize AI features with a modern JS/TS stack",
+    "founders": [],
+    "all_emails": [
+      "you@company.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Python",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:48.171448"
+  },
+  {
+    "company_name": "Fuseinsight",
+    "company_url": "http://www.fuseinsight.com/",
+    "description": "We take on the manual work of reading insurance cards, checking portals, policies and calling payers, so you can focus on your patients.",
+    "founders": [],
+    "all_emails": [
+      "hello@fuseinsight.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:29:52.988323"
+  },
+  {
+    "company_name": "Leapingai",
+    "company_url": "https://www.leapingai.com/",
+    "description": "",
+    "founders": [
+      {
+        "name": "Human-like voice",
+        "role": "Team Member",
+        "email": "human-like@www.leapingai.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Continuous optimization",
+        "role": "Team Member",
+        "email": "continuous@www.leapingai.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Latency <2s",
+        "role": "Team Member",
+        "email": "latency@www.leapingai.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:02.906957"
+  },
+  {
+    "company_name": "Useocular",
+    "company_url": "https://useocular.com/",
+    "description": "The Data Foundry for the Multi-Modal AI Era",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AWS",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:10.485540"
+  },
+  {
+    "company_name": "Withgarage",
+    "company_url": "https://www.withgarage.com/",
+    "description": "Garage is the go-to marketplace for buying and selling emergency vehicles, equipment, and more.",
+    "founders": [],
+    "all_emails": [
+      "support@withgarage.com"
+    ],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:17.339104"
+  },
+  {
+    "company_name": "Erisbio",
+    "company_url": "http://www.erisbio.com/",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:30:21.302836"
+  },
+  {
+    "company_name": "Zaymo",
+    "company_url": "https://zaymo.com/",
+    "description": "Interactivity converts.\nRemove friction to convert more customers by adding Zaymo\u2019s interactive, shoppable emails to your flows",
+    "founders": [],
+    "all_emails": [
+      "sales@zaymo.com",
+      "name@email.com",
+      "santi@zaymo.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:26.945740"
+  },
+  {
+    "company_name": "Pledge",
+    "company_url": "https://www.pledge.health/",
+    "description": "Pledge is an AI-powered RCM assistant that automates any insurance task \u2014 right inside your EHR",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:37.175587"
+  },
+  {
+    "company_name": "Vetrec",
+    "company_url": "https://vetrec.io/",
+    "description": "An AI assistant for veterinarians to work more efficiently before, during, and after their consults. Try now for free!",
+    "founders": [],
+    "all_emails": [
+      "hello@vetrec.io",
+      "support@vetrec.io"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:44.444369"
+  },
+  {
+    "company_name": "Fiber",
+    "company_url": "https://fiber.ai/",
+    "description": "Identify, engage, and convert candidates at scale. Get 100x the throughput of LinkedIn Recruiter for a fraction of the price.",
+    "founders": [],
+    "all_emails": [
+      "jasmine@company.com",
+      "adi@fiber.ai",
+      "gary@company.com",
+      "isabel@company.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AWS",
+      "Docker",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:30:52.692191"
+  },
+  {
+    "company_name": "Vybe",
+    "company_url": "https://www.vybe.build/",
+    "description": "",
+    "founders": [
+      {
+        "name": "Our Co",
+        "role": "Founder",
+        "email": "your@email.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "founders@vybe.build",
+      "your@email.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:04.396454"
+  },
+  {
+    "company_name": "Protegee",
+    "company_url": "http://protegee.ai/",
+    "description": "",
+    "founders": [],
+    "all_emails": [
+      "help@protegee.ai"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:08.797780"
+  },
+  {
+    "company_name": "Soharhealth",
+    "company_url": "https://www.soharhealth.com/",
+    "description": "Streamline patient intake and boost revenue with Sohar's real-time insurance verification and eligibility solutions. Automate workflows, reduce claim denials, and improve conversion rates with accurate, fast, and reliable tools. Book a demo today to transform your patient onboarding process.",
+    "founders": [],
+    "all_emails": [
+      "hello@soharhealth.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:17.324350"
+  },
+  {
+    "company_name": "Orangecollective",
+    "company_url": "https://www.orangecollective.vc/about",
+    "description": "Y Combinator Alumni-led Pre-Demo Day Fund",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:25.337323"
+  },
+  {
+    "company_name": "Beerme",
+    "company_url": "https://beerme.world/",
+    "description": "Buy a beer for your internet friends",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:32.865049"
+  },
+  {
+    "company_name": "Middleware",
+    "company_url": "https://www.middleware.io/",
+    "description": "Middleware's observability platform gives you complete visibility into your tech stack to monitor and diagnose issues at scale with total control over your data.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:40.333337"
+  },
+  {
+    "company_name": "Joinoverlap",
+    "company_url": "https://www.joinoverlap.com/",
+    "description": "Overlap builds multimodal AI Agents and has to most advanced Video Marketing Agent for autonomous editing and short form content.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:45.291543"
+  },
+  {
+    "company_name": "Outerport",
+    "company_url": "https://outerport.com/",
+    "description": "Make every diagram, drawing, and document queryable with LLMs.",
+    "founders": [],
+    "all_emails": [
+      "info@outerport.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Python",
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:49.873550"
+  },
+  {
+    "company_name": "Getstrada",
+    "company_url": "https://www.getstrada.com/",
+    "description": "Phone AI agents for insurance carriers, MGAs, and brokers",
+    "founders": [],
+    "all_emails": [
+      "info@getstrada.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:31:55.458276"
+  },
+  {
+    "company_name": "Digitalcarbon",
+    "company_url": "https://www.digitalcarbon.ai/",
+    "description": "The Gaussian Splatting API",
+    "founders": [],
+    "all_emails": [
+      "founders@digitalcarbon.ai"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:00.455764"
+  },
+  {
+    "company_name": "Aresindustries",
+    "company_url": "https://aresindustries.com/",
+    "description": "",
+    "founders": [],
+    "all_emails": [
+      "flags@2x.png"
+    ],
+    "tech_stack": [
+      "React",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:04.157953"
+  },
+  {
+    "company_name": "Sweetspot",
+    "company_url": "https://www.sweetspot.so/",
+    "description": "Sweetspot leverages AI to help businesses find, manage, and respond to government opportunities.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:10.207411"
+  },
+  {
+    "company_name": "Revi",
+    "company_url": "https://www.revi.ai/",
+    "description": "Private market intelligence for private equity, investment banking, corporate development, and consulting.",
+    "founders": [],
+    "all_emails": [
+      "careers@revi.ai"
+    ],
+    "tech_stack": [
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:14.049243"
+  },
+  {
+    "company_name": "Docsum",
+    "company_url": "https://www.docsum.ai/",
+    "description": "Docsum is an AI contract review and negotiation platform built for legal, sales, and finance teams. Simplify contract review, editing, and negotiation with real-time collaboration, AI-assisted redlining, and repository.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:19.493770"
+  },
+  {
+    "company_name": "Sparkhq",
+    "company_url": "https://www.sparkhq.ai/",
+    "description": "Spark AI is a research and workflow tool for utility scale and community solar developers.",
+    "founders": [
+      {
+        "name": "Julia Wu",
+        "role": "CEO",
+        "email": "julia@www.sparkhq.ai",
+        "linkedin": "https://www.linkedin.com/in/wu-julia/",
+        "twitter": "https://x.com/thejuliawu"
+      },
+      {
+        "name": "Tae Kim",
+        "role": "CTO",
+        "email": "tae@www.sparkhq.ai",
+        "linkedin": "https://www.linkedin.com/in/taehnkim/",
+        "twitter": "https://x.com/taehkimmm"
+      }
+    ],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:28.169533"
+  },
+  {
+    "company_name": "Versetherapy",
+    "company_url": "https://versetherapy.com/",
+    "description": "Get started for free with the best and most reliable online speech therapy. No waitlist, no referrals needed. Affordable rates.",
+    "founders": [],
+    "all_emails": [
+      "info@versetherapy.com"
+    ],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:37.176690"
+  },
+  {
+    "company_name": "Trykeet",
+    "company_url": "https://trykeet.com/",
+    "description": "Keet automates the manual data extraction and validation process for implementation managers. Allowing enterprises to onboard new customers in minutes.",
+    "founders": [],
+    "all_emails": [
+      "founders@trykeet.com"
+    ],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:41.840073"
+  },
+  {
+    "company_name": "Velorumtx",
+    "company_url": "https://www.velorumtx.com/",
+    "description": "Creating transformational medicines by unlocking the biology of heme.",
+    "founders": [
+      {
+        "name": "Parsa Modareszadeh",
+        "role": "Co-founder",
+        "email": "parsa@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Pouya Modareszadeh",
+        "role": "CEO",
+        "email": "pouya@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Richard Showalter",
+        "role": "VP",
+        "email": "richard@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Harri J\u00e4rvel\u00e4inen, DVM, PhD, MBA",
+        "role": "Team Member",
+        "email": "harri@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Lucas Rodriguez, PhD",
+        "role": "Team Member",
+        "email": "lucas@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "David Hitt, MS, JD",
+        "role": "Team Member",
+        "email": "david@www.velorumtx.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "info@velorumtx.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:51.891313"
+  },
+  {
+    "company_name": "Glass",
+    "company_url": "http://glass.health/",
+    "description": "",
+    "founders": [],
+    "all_emails": [
+      "flags@2x.png",
+      "support@glass.health"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:32:57.709066"
+  },
+  {
+    "company_name": "Angstrom-Ai",
+    "company_url": "https://www.angstrom-ai.com/",
+    "description": "",
+    "founders": [],
+    "all_emails": [
+      "info@angstrom-ai.com"
+    ],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:04.328779"
+  },
+  {
+    "company_name": "Miruml",
+    "company_url": "https://www.miruml.com/",
+    "description": "Miru provides the infrastructure for robotics teams to manage, version, and deploy configurations.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:09.310906"
+  },
+  {
+    "company_name": "Hammr",
+    "company_url": "https://www.hammr.com/",
+    "description": "With Hammr's software, contractors avoid 100's of hours on back-office work. Take control and manage your People, Projects, Payroll, Time-Tracking, Scheduling, Messaging, Benefits & HR \u2014 in one platform.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:20.886769"
+  },
+  {
+    "company_name": "Calendly",
+    "company_url": "https://calendly.com/d/cpmq-s3v-cvc/orange-collective-intro",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      ".NET"
+    ],
+    "scraped_at": "2025-05-30T03:33:25.274599"
+  },
+  {
+    "company_name": "Saturnos",
+    "company_url": "https://www.saturnos.com/",
+    "description": "Elevate your financial advice firm with Saturn AI, the leading AI solution for Financial Advisory, designed to harness data insights, automate workflows like annual reviews and streamline administrative tasks. ",
+    "founders": [],
+    "all_emails": [
+      "contact@heysaturn.com"
+    ],
+    "tech_stack": [
+      "Vue",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:30.684470"
+  },
+  {
+    "company_name": "Rewbi",
+    "company_url": "https://www.rewbi.com/",
+    "description": "Rewbi uses AI Battery Storage Optimization to make for a cleaner, more affordable and more reliable power grid.",
+    "founders": [],
+    "all_emails": [
+      "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+      "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com"
+    ],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:33:35.020825"
+  },
+  {
+    "company_name": "Bifrostorbital",
+    "company_url": "https://bifrostorbital.com/",
+    "description": "Bifrost Orbital offers 24/7 and real-time connectivity for satellites.",
+    "founders": [],
+    "all_emails": [
+      "sales@bifrostorbital.com",
+      "connect@bifrostorbital.com",
+      "founders@bifrostorbital.com"
+    ],
+    "tech_stack": [
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:43.377658"
+  },
+  {
+    "company_name": "Asterisk",
+    "company_url": "https://asterisk.so/",
+    "description": "Continuously identify vulnerabilities and simulate attack scenarios across your digital assets so you're always a step ahead.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:48.360682"
+  },
+  {
+    "company_name": "Simplex",
+    "company_url": "https://simplex.sh/",
+    "description": "Code-first web agents.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Python",
+      "Java",
+      ".NET",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:33:54.886356"
+  },
+  {
+    "company_name": "Micsi",
+    "company_url": "https://www.micsi.co/",
+    "description": "MICSI: Elevating MRI with AI tools and biophysical models for enhanced SNR, image quality aiding radiologists, clinicians, and healthcare providers.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:00.738017"
+  },
+  {
+    "company_name": "Henry",
+    "company_url": "http://www.henry.ai/",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "PHP",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:06.480321"
+  },
+  {
+    "company_name": "Commonpaper",
+    "company_url": "https://commonpaper.com/",
+    "description": "Common Paper powers contract collaboration, negotiation, close, and billing for revenue teams. Build trusted templates using our standard agreements, then leverage AI agents to negotiate, sign, and manage your contracts in a single workflow. Sign up for free",
+    "founders": [
+      {
+        "name": "Jake Stein",
+        "role": "CEO",
+        "email": "jake@commonpaper.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Benjamin Garvey",
+        "role": "CTO",
+        "email": "benjamin@commonpaper.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "team@commonpaper.com"
+    ],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:15.853972"
+  },
+  {
+    "company_name": "Vellum",
+    "company_url": "https://www.vellum.ai/",
+    "description": "Quickly take AI products from early-stage ideas to production-grade features with tooling for experimentation, evaluation, deployment, monitoring, and collaboration.",
+    "founders": [
+      {
+        "name": "Noa Flaherty",
+        "role": "CTO",
+        "email": "noa@www.vellum.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Akash Sharma",
+        "role": "CEO",
+        "email": "akash@www.vellum.ai",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "john@startup.com"
+    ],
+    "tech_stack": [
+      "Python",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:29.575195"
+  },
+  {
+    "company_name": "Decodahealth",
+    "company_url": "https://decodahealth.com/",
+    "description": "Decoda Health is building the most powerful AI-enabled platform for medical practices, offering a modern alternative to traditional EHR systems.",
+    "founders": [
+      {
+        "name": "Nemil Shah",
+        "role": "CEO",
+        "email": "nemil@decodahealth.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Haven Brolsma",
+        "role": "CEO",
+        "email": "haven@decodahealth.com",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Babar Qadri",
+        "role": "CEO",
+        "email": "babar@decodahealth.com",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:35.582926"
+  },
+  {
+    "company_name": "Keye",
+    "company_url": "https://www.keye.co/",
+    "description": "Perform better diligence in less time with AI. Empower deal teams with cutting edge LLMs. Now in beta.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:45.122002"
+  },
+  {
+    "company_name": "Themangohealth",
+    "company_url": "https://themangohealth.com/",
+    "description": "Conversational AI guide providing OCD support and guided ERP sessions.",
+    "founders": [],
+    "all_emails": [
+      "support@themangohealth.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:49.020990"
+  },
+  {
+    "company_name": "Reworkd",
+    "company_url": "https://reworkd.ai/",
+    "description": "End to End Web Scraping",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AWS",
+      "Azure",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:34:53.863441"
+  },
+  {
+    "company_name": "Durate",
+    "company_url": "https://www.durate.com/",
+    "description": "Manage scheduling all in one platform. Create schedules, maintain coverage, and handle sick calls with an easy to use, adjustable, and powerful platform.",
+    "founders": [],
+    "all_emails": [
+      "michael@durate.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Vue",
+      "PHP",
+      "Java",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:35:03.575739"
+  },
+  {
+    "company_name": "Collectwise",
+    "company_url": "https://collectwise.com/",
+    "description": "CollectWise automates debt collection using generative AI. We allow creditors to recover 2X as much debt at a fraction of the cost.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Spring",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:08.232842"
+  },
+  {
+    "company_name": "Hamming",
+    "company_url": "https://hamming.ai/",
+    "description": "Automated AI voice agent testing, call analytics, and governance for AI voice agents.",
+    "founders": [
+      {
+        "name": "Ran Makavyex",
+        "role": "Founder",
+        "email": "ran@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Hiten Shahex",
+        "role": "Founder",
+        "email": "hiten@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Richard Abermanex",
+        "role": "Founder",
+        "email": "richard@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Kulveer Taggarex",
+        "role": "Founder",
+        "email": "kulveer@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Benjamin Bryantex",
+        "role": "Founder",
+        "email": "benjamin@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Kerry Wangex",
+        "role": "Founder",
+        "email": "kerry@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Michael Stoppelmanex",
+        "role": "Founder",
+        "email": "michael@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Eric Pollmannex",
+        "role": "Founder",
+        "email": "eric@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Nicholas Elledgeex",
+        "role": "Founder",
+        "email": "nicholas@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      },
+      {
+        "name": "Theodor Marcuex",
+        "role": "Founder",
+        "email": "theodor@hamming.ai",
+        "linkedin": "",
+        "twitter": ""
+      }
+    ],
+    "all_emails": [
+      "founders@hamming.ai"
+    ],
+    "tech_stack": [
+      "Python",
+      "Java",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:16.509975"
+  },
+  {
+    "company_name": "Browser-Use",
+    "company_url": "https://browser-use.com/",
+    "description": "Repetitive work is dead. Browser Use empowers anyone to automate repetitive online tasks, no code required.",
+    "founders": [],
+    "all_emails": [
+      "sales@browser-use.com"
+    ],
+    "tech_stack": [
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:20.356842"
+  },
+  {
+    "company_name": "Andromedasurgical",
+    "company_url": "http://www.andromedasurgical.com/",
+    "description": "Empowering surgeons with autonomous precision",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:25.144732"
+  },
+  {
+    "company_name": "Domu",
+    "company_url": "https://www.domu.ai/",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:30.069186"
+  },
+  {
+    "company_name": "Peerdb",
+    "company_url": "https://peerdb.io/",
+    "description": "If Postgres is at the core of your business and is a major source of data, PeerDB provides a fast, simple and cost-effective way to replicate data from Postgres to Data Warehouses, Queues and Storage.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "Docker",
+      "PostgreSQL",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:35:36.029129"
+  },
+  {
+    "company_name": "Studydojo",
+    "company_url": "https://studydojo.com/",
+    "description": "Thousands of practice questions, study notes, and flashcards, all in one place. Supercharged with Jojo AI.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:43.842237"
+  },
+  {
+    "company_name": "With-Andy",
+    "company_url": "https://with-andy.com/",
+    "description": "Andy helps clinicians complete an OASIS chart in under 15 minutes. Book a demo to find out why 4.5 star agencies are working with Andy.",
+    "founders": [],
+    "all_emails": [
+      "hello@with-andy.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      ".NET",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:51.231198"
+  },
+  {
+    "company_name": "Ctgt",
+    "company_url": "https://www.ctgt.ai/",
+    "description": "Protect your company from AI hallucinations and liability while accelerating deployment 10x. Enterprise-grade governance platform trusted by the Fortune 500 to deliver secure, compliant, and reliable AI at scale.",
+    "founders": [],
+    "all_emails": [
+      "hello@ctgt.ai"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      ".NET",
+      "Machine Learning",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:35:58.559612"
+  },
+  {
+    "company_name": "Tuesdaylab",
+    "company_url": "https://www.tuesdaylab.com/",
+    "description": "delightful robots",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:02.684936"
+  },
+  {
+    "company_name": "Unify",
+    "company_url": "https://unify.ai/",
+    "description": "Assign Tasks by Call, E-mail, or Message \u2014 Your Assistant Handles the Rest!",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:12.446451"
+  },
+  {
+    "company_name": "Ligo",
+    "company_url": "https://www.ligo.bio/",
+    "description": "",
+    "founders": [],
+    "all_emails": [
+      "jobs@ligo.bio",
+      "contact@ligo.bio"
+    ],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:16.176063"
+  },
+  {
+    "company_name": "Emberrobotics",
+    "company_url": "https://www.emberrobotics.com/",
+    "description": "Diagnostic tools for for robot cameras - reducing vision failures from the source.",
+    "founders": [],
+    "all_emails": [
+      "name@email.com"
+    ],
+    "tech_stack": [
+      "Spring",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:22.506183"
+  },
+  {
+    "company_name": "Trigger",
+    "company_url": "https://trigger.dev/",
+    "description": "Build and deploy reliable background jobs with no timeouts and no infrastructure to manage.",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "Node.js",
+      "Python",
+      "Java",
+      ".NET",
+      "AWS",
+      "Google Cloud",
+      "Azure",
+      "Redis",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:35.338091"
+  },
+  {
+    "company_name": "Tryrisotto",
+    "company_url": "https://tryrisotto.com/",
+    "description": "Discover Risotto, your AI-powered IT co-pilot to streamline IT support within Slack. Risotto automates ticket management, answers common questions, and handles software requests. Save time, money, and improve security with Risotto. ",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:40.376594"
+  },
+  {
+    "company_name": "Kobaltlabs",
+    "company_url": "https://www.kobaltlabs.com/",
+    "description": "Kobalt Labs is a copilot enabling financial institutions to accelerate and strengthen their third-party diligence. It's time to modernize your compliance stack without increasing headcount or costs.",
+    "founders": [],
+    "all_emails": [
+      "hi@kobaltlabs.com",
+      "name@email.com"
+    ],
+    "tech_stack": [
+      "Java",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:36:46.850693"
+  },
+  {
+    "company_name": "Regattastorage",
+    "company_url": "https://regattastorage.com/",
+    "description": "",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "Java",
+      ".NET",
+      "Azure",
+      "Kubernetes",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:36:52.206756"
+  },
+  {
+    "company_name": "Unsloth",
+    "company_url": "https://unsloth.ai/",
+    "description": "Open-source LLM fine-tuning for Llama 4, Phi 4, Gemma 3, Mistral and more! Beginner friendly. Get faster with Unsloth. ",
+    "founders": [],
+    "all_emails": [
+      "support@unsloth.ai",
+      "info@unsloth.ai"
+    ],
+    "tech_stack": [
+      "PHP",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:37:02.034786"
+  },
+  {
+    "company_name": "Ego",
+    "company_url": "https://ego.live/",
+    "description": "IN-GAME SENTIENCE",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:37:07.679287"
+  },
+  {
+    "company_name": "Anara",
+    "company_url": "https://anara.com/",
+    "description": "Anara is an AI research assistant that helps you quickly find insights in research papers so you can write literature reviews faster. Join 1M+ academics using Anara to speed up their work.",
+    "founders": [],
+    "all_emails": [
+      "support@anara.com"
+    ],
+    "tech_stack": [
+      "React",
+      "Vue",
+      "PHP",
+      "Java",
+      ".NET",
+      "AWS",
+      "AI",
+      "IoT"
+    ],
+    "scraped_at": "2025-05-30T03:37:13.670340"
+  },
+  {
+    "company_name": "Alexcodes",
+    "company_url": "https://alexcodes.app/",
+    "description": "Alex is the ultimate tool for iOS and Swift app development, empowering developers with AI for Xcode to streamline workflows, tackle complex coding challenges, and boost productivity. Discover what makes it an essential asset for modern app creation.",
+    "founders": [],
+    "all_emails": [
+      "team@alexcodes.app"
+    ],
+    "tech_stack": [
+      "React",
+      "Java",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:37:20.063386"
+  },
+  {
+    "company_name": "Secret",
+    "company_url": "https://secret.corgi.insure/",
+    "description": "Corgi Secret",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:37:27.108577"
+  },
+  {
+    "company_name": "Matano",
+    "company_url": "https://www.matano.dev/",
+    "description": "Modern cloud native SIEM",
+    "founders": [],
+    "all_emails": [],
+    "tech_stack": [
+      "React",
+      ".NET",
+      "AWS",
+      "AI"
+    ],
+    "scraped_at": "2025-05-30T03:37:33.208094"
+  }
+]
