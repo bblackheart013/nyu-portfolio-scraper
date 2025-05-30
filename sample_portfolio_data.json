@@ -1,43 +1,40 @@
 {
-  "companies": [
-    {
-      "company_name": "Orgorg",
-      "company_url": "https://orgorg.com/",
-      "description": "Organize your organization.",
-      "founders": [],
-      "all_emails": [],
-      "tech_stack": [
-        "React",
-        "Java",
-        ".NET",
-        "AI"
-      ],
-      "scraped_at": "2025-05-30T03:25:18.762347"
-    },
-    {
-      "company_name": "Camelai",
-      "company_url": "https://camelai.com/",
-      "description": "Ask questions in plain English and get instant charts from your data with camelAI. Connect to PostgreSQL, CSVs & more. Free to try, no SQL needed.",
-      "founders": [],
-      "all_emails": [
-        "contact@camelai.com",
-        "support@camelai.com"
-      ],
-      "tech_stack": [
-        "Java",
-        ".NET",
-        "AWS",
-        "Google Cloud",
-        "Azure",
-        "PostgreSQL",
-        "MySQL",
-        "MongoDB",
-        "AI"
-      ],
-      "scraped_at": "2025-05-30T03:25:27.853876"
-    }
-
-    // ... other companies go here, exactly as they appear in your current array
-
-  ]
-}
+    "companies": [
+      {
+        "company_name": "Orgorg",
+        "company_url": "https://orgorg.com/",
+        "description": "Organize your organization.",
+        "founders": [],
+        "all_emails": [],
+        "tech_stack": [
+          "React",
+          "Java",
+          ".NET",
+          "AI"
+        ],
+        "scraped_at": "2025-05-30T03:25:18.762347"
+      },
+      {
+        "company_name": "Camelai",
+        "company_url": "https://camelai.com/",
+        "description": "Ask questions in plain English and get instant charts from your data with camelAI. Connect to PostgreSQL, CSVs & more. Free to try, no SQL needed.",
+        "founders": [],
+        "all_emails": [
+          "contact@camelai.com",
+          "support@camelai.com"
+        ],
+        "tech_stack": [
+          "Java",
+          ".NET",
+          "AWS",
+          "Google Cloud",
+          "Azure",
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "AI"
+        ],
+        "scraped_at": "2025-05-30T03:25:27.853876"
+      }
+    ]
+  }
